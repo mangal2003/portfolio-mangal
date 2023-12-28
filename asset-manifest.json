@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-mangal/static/css/main.baade663.css",
+    "main.js": "/portfolio-mangal/static/js/main.05f1b263.js",
+    "static/media/certificate.jpg": "/portfolio-mangal/static/media/certificate.3df326ceb4d4f777d4cc.jpg",
+    "static/media/bgmi.jpg": "/portfolio-mangal/static/media/bgmi.31cdeafaa977b4be7e68.jpg",
+    "static/media/certificate3.jpg": "/portfolio-mangal/static/media/certificate3.b6e7d4e066159fa09d3a.jpg",
+    "static/media/certificate1.jpg": "/portfolio-mangal/static/media/certificate1.aa9adf01ee5b20f78f92.jpg",
+    "static/media/certificate4.jpg": "/portfolio-mangal/static/media/certificate4.e38d6823a9c10d5af474.jpg",
+    "static/media/certificate2.jpg": "/portfolio-mangal/static/media/certificate2.0857d0e2dc70d9acce4c.jpg",
+    "static/media/ShivMangalSingh.jpg": "/portfolio-mangal/static/media/ShivMangalSingh.f2bbd191e051c0e4184e.jpg",
+    "static/media/digitalClock.jpg": "/portfolio-mangal/static/media/digitalClock.336ab5ffcc81def76ef5.jpg",
+    "static/media/appleVisionPro.jpg": "/portfolio-mangal/static/media/appleVisionPro.f38ed6ec4a6cbd00b5e8.jpg",
+    "static/media/passwordGenerator.jpg": "/portfolio-mangal/static/media/passwordGenerator.c8f9f2735a6f619409b4.jpg",
+    "static/media/instagram.jpg": "/portfolio-mangal/static/media/instagram.df200f0230a12d3b82f5.jpg",
+    "index.html": "/portfolio-mangal/index.html",
+    "main.baade663.css.map": "/portfolio-mangal/static/css/main.baade663.css.map",
+    "main.05f1b263.js.map": "/portfolio-mangal/static/js/main.05f1b263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baade663.css",
+    "static/js/main.05f1b263.js"
+  ]
+}
