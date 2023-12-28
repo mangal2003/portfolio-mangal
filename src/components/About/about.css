@@ -1,0 +1,86 @@
+#about {
+  width: 100vw;
+  max-width: 75rem;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+#bgPhoto {
+  position: absolute;
+  top: 50%;
+  right: 5rem;
+  transform: translate(0, -50%);
+  z-index: -1;
+  object-fit: cover;
+  height: 50vh;
+  border-radius: 12px;
+}
+
+.aboutContent {
+  height: 100vh;
+  width: 100vw;
+  padding: 5rem;
+  font-size: 3rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hello {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+#name {
+  color: rgb(255, 0, 0);
+}
+
+.aboutPara {
+  letter-spacing: 1px;
+  font-size: 1rem;
+  font-weight: 300;
+  color: #ada4a4;
+}
+
+.btn {
+  background-color: #fff;
+  margin: 1rem 0 0 0;
+  padding: 0.6rem 1.8rem;
+  border: none;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  background-color: rgb(255, 0, 0);
+  color: #fff;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 840px) {
+  #about {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 90%;
+    padding: 0.5rem;
+  }
+  .aboutContent {
+    font-size: 8vw;
+    padding: 0.5rem;
+    margin: 0.4rem;
+    word-wrap: break-word;
+  }
+  .hello {
+    font-size: 3vw;
+  }
+  #bgPhoto {
+    position: relative;
+    top: -6rem;
+    left: 50%;
+    transform: translate(-50%, 0);
+    height: 280px;
+    border-radius: 11px;
+  }
+}
